@@ -1,7 +1,7 @@
 # Permanent To-Do List
 
 ## Overview
-A web application for managing a permanent to-do list, allowing users to add, edit, and remove tasks. This project utilizes a SQL database with PostgreSQL, and is built using JavaScript with Express, Node.js, and EJS for the backend and templating. CSS is used for styling the frontend.
+A web application for managing a permanent to-do list, allowing users to add, edit, and remove tasks. This project utilizes a SQL database with PostgreSQL accessed by pgAdmin 4, and is built using JavaScript with Express, Node.js, and EJS for the backend and templating. CSS is used for styling the frontend.
 
 ## Skills Used
 - **JavaScript**: Core language for server-side logic and dynamic content handling.
